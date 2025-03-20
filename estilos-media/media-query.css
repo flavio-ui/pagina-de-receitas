@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+@media screen  and (max-width: 600px) {
+
+ body {
+   
+    margin: 0px;
+ }
+
+ p, ul, tr {
+   font-size: 0.9em;
+   line-height: 1.5em;
+ }
+
+ ul {
+   line-height: 2em;
+ }
+
+ main {
+    border-radius: 0px;
+    
+    
+ }
+
+ section {
+    width: 210px;
+    padding-right: 60px;
+    
+ }
+
+ img {
+    border-radius: 0px;
+ }
+
+ div {
+    background-image: url(images/image-omelette02.jpeg);
+    margin: -20px -20px 20px -20px;
+ }
+}
+
+
+
