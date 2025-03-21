@@ -36,12 +36,17 @@ body {
     border-radius: 10px;
   }
 
+  div {
+    background-color: bisque;
+    display: flex;
+  }
+
  h1 {
     font-family: var(--font-titulo-1);
     font-weight: lighter;
     background-color: aqua;
-    padding-bottom: 10px;
     display: inline-block;
+    flex: auto;
   }
 
   strong {
