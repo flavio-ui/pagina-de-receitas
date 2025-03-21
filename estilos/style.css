@@ -36,19 +36,9 @@ body {
     border-radius: 10px;
   }
 
-  div {
-    background-color: bisque;
-    display: flex;
-    flex-flow: row wrap;
-  }
-
  h1 {
     font-family: var(--font-titulo-1);
     font-weight: lighter;
-    background-color: aqua;
-    display: inline-block;
-    flex: auto;
-    flex-wrap: nowrap;
   }
 
   strong {
