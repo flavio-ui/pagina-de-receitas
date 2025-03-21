@@ -39,6 +39,7 @@ body {
   div {
     background-color: bisque;
     display: flex;
+    flex-flow: row wrap;
   }
 
  h1 {
@@ -47,6 +48,7 @@ body {
     background-color: aqua;
     display: inline-block;
     flex: auto;
+    flex-wrap: nowrap;
   }
 
   strong {
